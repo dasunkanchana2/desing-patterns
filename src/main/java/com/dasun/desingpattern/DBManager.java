@@ -6,6 +6,7 @@ import java.sql.SQLException;
 
 public class DBManager {
 
+
     private static volatile DBManager dbManager; //= new DBManager();
     private static volatile Connection connection;
 
