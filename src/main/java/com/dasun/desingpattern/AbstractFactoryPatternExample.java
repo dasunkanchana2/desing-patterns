@@ -1,5 +1,8 @@
 package com.dasun.desingpattern;
 
+/**
+ * The AbstractFactoryPatternExample -Abstract Factory pattern
+ */
 public class AbstractFactoryPatternExample {
     public static void main(String[] args) {
 
